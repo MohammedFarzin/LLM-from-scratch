@@ -2,17 +2,17 @@
 
 ## The main 3 Stages to build llm as follows:
 ### Stage 1
- Data prepration and sampling
- Attention mechanism
- LLM Architecture
+ 1. Data prepration and sampling
+ 2. Attention mechanism
+ 3. LLM Architecture
 
 ### Stage 2
-Training Loop
-Model evaluation
-Load pretrained weights
+1. Training Loop
+2. Model evaluation
+3. Load pretrained weights
 
 ### Stage 3
-Finetuning as classifier
-Personal Assistant
+1. Finetuning as classifier
+2. Personal Assistant
 
 
